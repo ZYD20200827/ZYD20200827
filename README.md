@@ -1,4 +1,4 @@
-### 这是一个小米mix2s的类原生内核存储库
+### 我是菜鸡
 
 <!--
 **ZYD20200827/ZYD20200827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
