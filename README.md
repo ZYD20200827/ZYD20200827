@@ -1,4 +1,4 @@
-### 我是菜鸡
+### Hi
 
 <!--
 **ZYD20200827/ZYD20200827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
